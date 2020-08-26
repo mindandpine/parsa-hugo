@@ -16,14 +16,14 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "The Hague"
-author = "Mind & Pine"
+author = "Casey"
 author_image = "images/banner-img.png"
 bio = ""
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
 email = "casey.aviles@mindandpine.com"
-google_analitycs_id = "Your ID"
+google_analitycs_id = "244491560"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
