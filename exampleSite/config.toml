@@ -3,7 +3,7 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Mind & Pine | For the green minded"
+title = "Mind & Pine "
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -26,7 +26,7 @@ email = "casey.aviles@mindandpine.com"
 google_analitycs_id = "244491560"
 home = "Home"
 layout = "1"
-logo = "mind-pine-3.png"
+logo = "images/mind-pine-3.png"
 mobile = ""
 preloader = true
 search = true
@@ -62,14 +62,5 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "#"
-icon = "ti-linkedin"
-[[params.social]]
-URL = "#"
-icon = "ti-github"
+URL = ""
+icon = ""
