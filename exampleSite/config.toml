@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 address = "The Hague"
 author = "Casey"
-author_image = "images/banner-img.png"
+author_image = ""
 bio = ""
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
@@ -26,7 +26,7 @@ email = "casey.aviles@mindandpine.com"
 google_analitycs_id = "244491560"
 home = "Home"
 layout = "1"
-logo = "images/logo.png"
+logo = "mind-pine-3.png"
 mobile = ""
 preloader = true
 search = true
