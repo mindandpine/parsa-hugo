@@ -2,7 +2,7 @@
 title: Feature 6
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-type: post
+type: featured
 image: images/masonary-post/post-5.jpg
 categories:
 - Food
