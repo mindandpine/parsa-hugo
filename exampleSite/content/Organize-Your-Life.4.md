@@ -1,5 +1,5 @@
 ---
-title: Breast is best
+title: Test 7
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
@@ -9,7 +9,6 @@ categories:
 tags:
 - Fashion
 - Nature
-draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
