@@ -3,7 +3,7 @@ title: Feature  2
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: images/featured-post/post-4.jpg
+image: "/images/pexels-george-becker-116833.jpg"
 categories:
 - Article
 tags:
