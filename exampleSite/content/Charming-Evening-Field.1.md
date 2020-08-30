@@ -3,7 +3,7 @@ title: Post 1
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: post
-image: images/masonary-post/post-2.jpg
+image: "/images/pexels-august-de-richelieu-4262424.jpg"
 categories:
 - Food
 tags:
