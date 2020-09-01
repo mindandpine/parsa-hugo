@@ -3,7 +3,7 @@ title: Feature 1
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: "/images/pexels-stijn-dijkstra-2583835.jpg"
+image: "/images/pexels-public-domain-pictures-41165.jpg"
 categories:
 - Philosophy
 tags:
